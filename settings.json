@@ -1,0 +1,26 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "editor.background": "#2b2b2b",
+            "editor.selectionHighlightBackground": "#6e6e6edc",
+            "editor.selectionBackground":"#3f3f38dc"
+        },
+        "editorRuler.foreground": "#8f2b4d"
+    },
+    "editor.rulers": [
+        79,
+        120
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "yapf",
+    "editor.acceptSuggestionOnEnter": "off",
+
+}
+
